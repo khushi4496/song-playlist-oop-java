@@ -40,6 +40,7 @@ Output:
 Dope downloaded
 khushi1245 possesses songs:
 - Dope
+```
 
 📚 Key Learning Highlights
 
@@ -57,12 +58,7 @@ Compile and run Main.java.
 
 Interact via console outputs.
 
-🧑‍💻 Author
+👧💻 Author
 
-Khushi Singh
-A Java enthusiast building OOP-based mini projects for interview and internship preparation (Google, Uber, etc.).
-
----
-
-Would you like me to also write a **1-line GitHub repository description** and **tags** (the ones that appear right below your repo name on GitHub)?  
-They help your repo rank higher and look professional to recruiters.
+Khushi Singh Panwar
+A Java developer passionate about building object-oriented projects that strengthen core programming concepts and design skills.
