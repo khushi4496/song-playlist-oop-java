@@ -34,13 +34,13 @@ playlist.addSong(new Song("Fire"));
 Subscriber user = new Subscriber("khushi1245");
 user.downloadSong(playlist, new Song("Dope"));
 user.displayUserPlaylist();
+```
 
 Output:
 
 Dope downloaded
 khushi1245 possesses songs:
 - Dope
-```
 
 📚 Key Learning Highlights
 
