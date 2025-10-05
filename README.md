@@ -39,6 +39,7 @@ user.displayUserPlaylist();
 Output:
 
 Dope downloaded
+
 khushi1245 possesses songs:
 - Dope
 
